@@ -64,4 +64,4 @@ A React application for filtering and sorting financial data. The app allows use
 
 - React.js
 - Tailwind CSS
-- JavaScript (ES6+)
+- JavaScript
