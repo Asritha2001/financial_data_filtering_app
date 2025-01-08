@@ -4,14 +4,14 @@ A React application for filtering and sorting financial data. The app allows use
 
 ## Live Demo
 
-[View Live Demo](https://your-username.github.io/financial-data-filter)
+[View Live Demo](https://financial-data-filtering-3b4bj0166.vercel.app/)
 
 ## Running the Project Locally
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
-- npm (comes with Node.js)
+- Node.js
+- React
 
 ### Installation Steps
 
@@ -27,11 +27,15 @@ A React application for filtering and sorting financial data. The app allows use
    ```bash
    npm install
    ```
-4. Start the server
+4. Set Up Environment Variables: Create a .env file in the root directory (if it doesn't exist) and add your api key.
+   ```bash
+   REACT_APP_API_KEY=your-api-key
+   ```
+5. Start the server
    ```bash
    npm start
    ```
-5. Open your browser and visit [http://localhost:3000](http://localhost:3000)
+6. Open your browser and visit [http://localhost:3000](http://localhost:3000)
 
 ## Project Structure
 
